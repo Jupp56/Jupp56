@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jupp56
 - 👀 I’m interested in a great many things regarding software.
-- 🌱 I’m currently learning Rust while working on my bachelors degree in computer science.
+- 🌱 I’m currently working on my deeper understanding of Rust.
 - 📫 How to reach me tbd
 
 <!---
